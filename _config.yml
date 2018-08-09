@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 author: 
-email: 
+email: contact@villagecoffee.com.au
 description: 
 permalink: pretty
 exclude:
@@ -23,7 +23,7 @@ exclude:
 - ".git"
 - package.json
 - package-lock.json
-facebook_url: 
+facebook_url: https://www.facebook.com/villagecoffeemarmion/
 insta_url: 
 whitelist:
 - jekyll-redirect-from
