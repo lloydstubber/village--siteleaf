@@ -3,7 +3,12 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        {{ content }}
+        <div class="holding">
+          <a href="{{ site.facebook_url }}" target="_blank">
+            {% include logo.html %}
+          </a>
+          {{ content }}
+        </div>
       </div>
     </main>
 

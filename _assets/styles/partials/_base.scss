@@ -3,6 +3,11 @@
   background-color: black;
 }
 
+body {
+  background-color: $color-secondary;
+  color: $color-primary;
+}
+
 img {
   display: block;
   width: 100%;
