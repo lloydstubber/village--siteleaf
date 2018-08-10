@@ -1,0 +1,15 @@
+{% include head.html %}
+{% include header.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="holding">
+          <a href="{{ site.facebook_url }}" target="_blank">
+            {% include logo.html %}
+          </a>
+          {{ content }}
+        </div>
+      </div>
+    </main>
+
+{% include footer.html %}

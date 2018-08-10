@@ -1,0 +1,29 @@
+---
+title: Village  Siteleaf
+timezone: Australia/Melbourne
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+author: 
+email: contact@villagecoffee.com.au
+description: 
+permalink: pretty
+exclude:
+- Gemfile.lock
+- Gemfile
+- README*
+- node_modules
+- ".gitignore"
+- assets/scripts/src
+- yarn.lock
+- ".git"
+- package.json
+- package-lock.json
+facebook_url: https://www.facebook.com/villagecoffeemarmion/
+insta_url: 
+whitelist:
+- jekyll-redirect-from
