@@ -10,7 +10,9 @@ collections:
     output: true
 author: 
 email: contact@villagecoffee.com.au
-description: Coming soon
+description: Teaming that early morning coffee with a great meal and service with
+  a smile. Village has everything that the Marmion locals have been waiting for. Coming
+  soon.
 permalink: pretty
 exclude:
 - Gemfile.lock
