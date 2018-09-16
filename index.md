@@ -2,7 +2,7 @@
 title: Home
 position: 0
 layout: default
-recipe_upload: "uploads/Village-Coffee-Menu.pdf"
+recipe_upload: uploads/Village-Coffee-Menu.pdf
 ---
 
 ---
