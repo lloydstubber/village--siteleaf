@@ -5,6 +5,7 @@ h4,
 h5,
 h6 {
   font-family: $font-heading;
+  font-weight: 300;
 }
 
 h1 {
@@ -16,7 +17,8 @@ h2 {
 }
 
 h3 {
-  font-size: 1.931em;
+  font-size: 1.3em;
+  font-weight: 400;
 }
 
 h4 {
@@ -40,6 +42,7 @@ button,
 ul,
 li {
   font-family: $font-body;
+  font-weight: 300;
 }
 
 p {
@@ -50,6 +53,7 @@ p {
 
 strong {
   font-family: $font-bold;
+  font-weight: 400;
 }
 
 em {
