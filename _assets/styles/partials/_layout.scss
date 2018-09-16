@@ -24,9 +24,14 @@ main {
       max-width: 350px;
       text-align: center;
 
+      @media (max-width: 350px) {
+        margin-top: $grid-gutter * 2;
+      }
+
+
       svg {
-        width: 100%;
-        height: auto;
+        width: 200px;
+        height: 60px;
         fill: $color-primary;
         margin-bottom: 10px;
         max-width: 200px;
@@ -80,6 +85,7 @@ ul li {
   display: flex;
   justify-content: center;
   margin-top: $grid-gutter;
+  margin-bottom: $grid-gutter;
 
   #fb-logo, #insta-logo {
     fill: $color-primary;
