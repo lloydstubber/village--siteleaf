@@ -26,7 +26,7 @@ exclude:
 - package.json
 - package-lock.json
 facebook_url: https://www.facebook.com/villagecoffeemarmion/
-insta_url: 
+insta_url: https://www.instagram.com/villagecoffeemarmion/
 whitelist:
 - jekyll-redirect-from
 favicon_image: 
