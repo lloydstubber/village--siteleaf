@@ -1,8 +1,8 @@
 ---
 title: Home
 position: 0
+recipe_upload: uploads/village-menu-march.pdf
 layout: default
-recipe_upload: uploads/Village-Coffee-Menu.pdf
 ---
 
 ---
@@ -12,5 +12,5 @@ recipe_upload: uploads/Village-Coffee-Menu.pdf
 - Open in [Google Maps](https://goo.gl/maps/iA6WRyBYJPm){:target="_blank"}
 
 ### Opening Times
-- **Monday–Friday** 6am–4pm
-- **Saturday–Sunday** 8am–2pm
+- **Monday–Friday** 6:30am–2:30pm
+- **Saturday–Sunday** 7am–2pm
